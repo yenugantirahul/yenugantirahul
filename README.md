@@ -50,7 +50,7 @@ My primary interests lie in **Backend Engineering**. I actively strengthen my pr
 
 ---
 
-### Databases & Vector Stores
+### Databases 
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=4" />
