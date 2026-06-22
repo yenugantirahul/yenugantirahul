@@ -36,7 +36,7 @@ My primary interests lie in **Backend Engineering**. I actively strengthen my pr
 ### Languages
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,js&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,js,go&perline=5" />
 </div>
 
 ---
