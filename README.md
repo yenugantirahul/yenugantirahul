@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=4A90E2&center=true&vCenter=true&width=700&lines=Yenuganti+Rahul;Backend+Engineering;" alt="Typing SVG" />
-
+ 
 <br/>
 
 <strong>Computer Science Student  • Competitive Programmer</strong>
