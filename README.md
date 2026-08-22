@@ -45,7 +45,7 @@ My primary interests lie in **Backend Engineering**. I actively strengthen my pr
 ### Backend & Frameworks
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,docker&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,docker&perline=4" />
 </div>
 
 ---
